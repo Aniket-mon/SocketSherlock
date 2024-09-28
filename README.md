@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python SocketSherlock.py <target ip>
 ```
 
-<p>2. Navigate to the project directory:</p>
+<p>2. Advanced Usage:</p>
 
 ```
 python SocketSherlock.py <target ip> [arguments]
