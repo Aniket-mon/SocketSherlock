@@ -60,7 +60,7 @@ python SocketSherlock.py <target ip> [arguments]
 
 ### Examples
 
-1. Scan a single IP address with default settings:
+1. Scan a single IP address with default settings - scans the first 1000 ports:
    ```
    python socketsherlock.py 192.168.1.1
    ```
