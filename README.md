@@ -6,7 +6,7 @@
 
   
   
-<h2>🧐 Features</h2>
+<h2> Features</h2>
 
 Here're some of the project's best features:
 
@@ -18,7 +18,7 @@ Here're some of the project's best features:
 *   User-friendly command-line interface
 *   Run directly from the terminal
 
-<h2>🛠️ Installation Steps:</h2>
+<h2> Installation Steps:</h2>
 
 <p>1. Clone the repository :</p>
 
@@ -37,7 +37,7 @@ cd SocketSherlock
 ```
 pip install -r requirements.txt
 ```
-<h2>🪝Usage </h2>
+<h2>Usage </h2>
 
 <p>Basic usage:</p>
 
@@ -79,7 +79,7 @@ python SocketSherlock.py <target ip> [arguments]
    ```
    python socketsherlock.py 192.168.1.1 -o results.json
 
-<h2>🍰 Contribution Guidelines:</h2>
+<h2> Contribution Guidelines:</h2>
 
 Please contribute using GitHub Flow. 
 Create a branch. 
@@ -88,7 +88,7 @@ Create a pull request.
 
   
   
-<h2>💻 Built with</h2>
+<h2> Built with</h2>
 
 Technologies used in the project:
 
@@ -107,11 +107,11 @@ Libraries :
   * json
   
 
-<h2>🛡️ License:</h2>
+<h2> License:</h2>
 
 This project is licensed under the MIT License
 
-<h2>💖Acknowledgemnets</h2>
+<h2>Acknowledgemnets</h2>
 
 * Thanks to all contributors who have helped to improve SocketSherlock. 
 
